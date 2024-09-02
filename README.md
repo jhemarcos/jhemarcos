@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jhemarcos/jhemarcos/main/wave.gif" width="30">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jhemarcos/jhemarcos/main/files/wave.gif" width="30">
 
 With over 10 years of experience as a Software Engineer, I have dedicated myself daily to what I believe in: the power of technology to improve people's lives. I always see it as a means, not an end.
 
